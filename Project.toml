@@ -1,0 +1,8 @@
+name = "JuliaElectronPlayground"
+uuid = "280506ff-ddd5-44de-826b-0faab9c949b1"
+authors = ["jjj999 <jjj999to@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Electron = "a1bb12fb-d4d1-54b4-b10a-ee7951ef7ad3"
+FilePaths = "8fc22ac5-c921-52a6-82fd-178b2807b824"
